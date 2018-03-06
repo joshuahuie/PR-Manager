@@ -1,3 +1,3 @@
-Simple process and resource manager simulator.
+Simple process and resource simulator.
 
 
